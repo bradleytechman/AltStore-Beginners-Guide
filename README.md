@@ -1,3 +1,6 @@
+
+⭐️⭐️⭐️If you like this, star this!⭐️⭐️⭐️
+
 # AltStore
 
  Since a lot of people have been asking how to use AltStore, sideload, or IPA files for apps such as YouTube; This guide will tell you how to use AltStore, sideloading, issues, and how to solve them. 
@@ -137,38 +140,36 @@ altserver tray icon should appear on next boot
 
 # Have the AltStore beta? Here are sources you can add!
 
-Clicking on the link will open in AltStore You can get the beta by paying monthly for Riley and Shane’s Patreon.
+Clicking on the link will open in AltStore You can get the beta by paying monthly for [Riley and Shane’s Patreon](https://www.patreon.com/rileyshane).
 
-altstore://https://raw.githubusercontent.com/vizunchik/AltStoreRus/master/apps.json
+[https://raw.githubusercontent.com/vizunchik/AltStoreRus/master/apps.json](https://tinyurl.com/tz7x7b75)
 
-https://quarksources.github.io/quantumsource++.json
+[https://quarksources.github.io/quantumsource++.json](https://tinyurl.com/24y7mju4)
 
-https://web.archive.org/web/20210225095501if_/https://appybois.com/
+[https://web.archive.org/web/20210225095501if_/https://appybois.com/](https://tinyurl.com/5n7vf4te)
 
-https://raw.githubusercontent.com/FurkanSimsir/channels.github.io/master/channels.json
+[https://raw.githubusercontent.com/FurkanSimsir/channels.github.io/master/channels.json](https://tinyurl.com/92h2a4us)
 
-https://quarksources.github.io/quantumsource.json
+[https://quarksources.github.io/quantumsource.json](https://tinyurl.com/2z2bzjzr)
 
-https://randomblock1.com/altstore/apps.json
+[https://randomblock1.com/altstore/apps.json](https://tinyurl.com/53r94rka)
 
-https://alts.lao.sb
+[https://alts.lao.sb](https://tinyurl.com/bdf6uk9u)
 
-https://randomblock1.com/altstore/apps.json
+[https://floridaman7588.me/altjb/altsource.json](https://tinyurl.com/52wt8zp5)
 
-https://floridaman7588.me/altjb/altsource.json
+[https://ipa.cypwn.xyz/cypwn.json](https://tinyurl.com/bdf6ht2p)
 
-https://ipa.cypwn.xyz/cypwn.json
+[https://hann8n.github.io/JackCracks/jackscracksaltstore.json](https://tinyurl.com/y7d6fetw)
 
-https://hann8n.github.io/JackCracks/jackscracksaltstore.json
+[https://flyinghead.github.io/flycast-builds/altstore.json](https://tinyurl.com/44sdzmhj)
 
-https://flyinghead.github.io/flycast-builds/altstore.json
+[https://www.appfair.net/fairapps-ios.json](https://tinyurl.com/bdc5e5z3)
 
-https://www.appfair.net/fairapps-ios.json
+[https://appmarket.tech/altstore.json](https://tinyurl.com/2phmve3z)
 
-https://appmarket.tech/altstore.json
-
-The end. Thank you for taking your time to read this because this took literal AGES so please, consider pressing the upvote button. Thank you to u/xXEnjo1PandaXx for sticking this post, you made my day!
+The end. Thank you for taking your time to read this because this took literal AGES so please, consider pressing the upvote and star button. Thank you to u/xXEnjo1PandaXx for sticking this post, you made my day!
 
 if there are words in unnecessary places it’s because I used Grammarly to touch everything up
 
-EDITS: ALOT of grammar, added beta sources and removed one, formatting, added issues.
+EDITS: ALOT of grammar, added beta sources and removed a few, formatting, added issues.

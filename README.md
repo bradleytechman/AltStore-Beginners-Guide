@@ -172,12 +172,19 @@ Clicking on the link will open in AltStore You can get the beta by paying monthl
 # Credits
 
 u/xXEnjo1PandaXx - Mod that stickied the post
+
 maxasix - AltLinux GUI
+
 Riley & Shane -  Made AltStore and AltServer
+
 u/wukkyy - Found Windows 11 bug fix
+
 u/chux-e - Fix for errror 1100
+
 u/archiep0gi - Fix for being stuck on the login screen
+
 u/cancerism - Another way to automate your refreshes
+
 u/BWC_4_Wife - Fix for device not showing up
 
 The end. Thank you for taking your time to read this because this took literal AGES so please, consider pressing the upvote and star button. Thank you to u/xXEnjo1PandaXx for sticking this post, you made my day!

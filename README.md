@@ -142,31 +142,31 @@ altserver tray icon should appear on next boot
 
 Clicking on the link will open in AltStore You can get the beta by paying monthly for [Riley and Shane’s Patreon](https://www.patreon.com/rileyshane).
 
-[https://raw.githubusercontent.com/vizunchik/AltStoreRus/master/apps.json](https://tinyurl.com/tz7x7b75)
+[https://raw.githubusercontent.com/vizunchik/AltStoreRus/master/apps.json](https://tinyurl.com/mtatsd3a)
 
-[https://quarksources.github.io/quantumsource++.json](https://tinyurl.com/24y7mju4)
+[https://quarksources.github.io/quantumsource++.json](https://tinyurl.com/5add3ubk)
 
-[https://web.archive.org/web/20210225095501if_/https://appybois.com/](https://tinyurl.com/5n77ckv6)
+[https://web.archive.org/web/20210225095501if_/https://appybois.com/](https://tinyurl.com/2vjt6p7f)
 
-[https://raw.githubusercontent.com/FurkanSimsir/channels.github.io/master/channels.json](https://tinyurl.com/92h2a4us)
+[https://raw.githubusercontent.com/FurkanSimsir/channels.github.io/master/channels.json](https://tinyurl.com/2acjy3y8)
 
-[https://quarksources.github.io/quantumsource.json](https://tinyurl.com/2z2bzjzr)
+[https://quarksources.github.io/quantumsource.json](https://tinyurl.com/y6d8un9t)
 
-[https://randomblock1.com/altstore/apps.json](https://tinyurl.com/53r94rka)
+[https://randomblock1.com/altstore/apps.json](https://tinyurl.com/3vjxvuzb)
 
-[https://alts.lao.sb](https://tinyurl.com/bdf6uk9u)
+[https://alts.lao.sb](https://tinyurl.com/mr5ymvkm)
 
-[https://floridaman7588.me/altjb/altsource.json](https://tinyurl.com/52wt8zp5)
+[https://floridaman7588.me/altjb/altsource.json](https://tinyurl.com/4rwjsfan)
 
-[https://ipa.cypwn.xyz/cypwn.json](https://tinyurl.com/bdf6ht2p)
+[https://ipa.cypwn.xyz/cypwn.json](https://tinyurl.com/5cujbntv)
 
-[https://hann8n.github.io/JackCracks/jackscracksaltstore.json](https://tinyurl.com/y7d6fetw)
+[https://hann8n.github.io/JackCracks/jackscracksaltstore.json](https://tinyurl.com/yc2ppkce)
 
-[https://flyinghead.github.io/flycast-builds/altstore.json](https://tinyurl.com/44sdzmhj)
+[https://flyinghead.github.io/flycast-builds/altstore.json](https://tinyurl.com/5svryy7z)
 
-[https://www.appfair.net/fairapps-ios.json](https://tinyurl.com/m8ff3ajr)
+[https://www.appfair.net/fairapps-ios.json](https://tinyurl.com/5hautux4)
 
-[https://appmarket.tech/altstore.json](https://tinyurl.com/m2jmxzdv)
+[https://appmarket.tech/altstore.json](https://tinyurl.com/msuss6pm)
 
 The end. Thank you for taking your time to read this because this took literal AGES so please, consider pressing the upvote and star button. Thank you to u/xXEnjo1PandaXx for sticking this post, you made my day!
 

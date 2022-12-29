@@ -25,7 +25,7 @@ AltLinux is a GUI for AltServer Linux, both being made unofficially. To install 
 
 https://github.com/i-love-altlinux/AltLinux#install-altlinux
 
-# Do Not Use 3UTools
+# Do Not Use 3uTools
 
 whatever you do, don’t use 3Utools. It has been proven to be modifying jailbreak developers’ jailbreaks without permission which is piracy, sending data to china about your phone, Using a pirated and modified version on Appsync Unified. Do not use it.
 

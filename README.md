@@ -119,6 +119,7 @@ With an apple developer account for $99 a year, you get, 365 until it expires, t
 You can get IPA files from here. now stop asking plz
 
 The icon isn't showing up in the tray, what do I do?
+Thank you u/wukkyy for this info!
 
 you need to disable the new tray ui with vive tool that can be downloaded from github (https://github.com/thebookisclosed/ViVe/releases).
 
@@ -167,6 +168,17 @@ Clicking on the link will open in AltStore You can get the beta by paying monthl
 [https://www.appfair.net/fairapps-ios.json](https://tinyurl.com/5hautux4)
 
 [https://appmarket.tech/altstore.json](https://tinyurl.com/msuss6pm)
+
+# Credits
+
+u/xXEnjo1PandaXx - Mod that stickied the post
+maxasix - AltLinux GUI
+Riley & Shane -  Made AltStore and AltServer
+u/wukkyy - Found Windows 11 bug fix
+u/chux-e - Fix for errror 1100
+u/archiep0gi - Fix for being stuck on the login screen
+u/cancerism - Another way to automate your refreshes
+u/BWC_4_Wife - Fix for device not showing up
 
 The end. Thank you for taking your time to read this because this took literal AGES so please, consider pressing the upvote and star button. Thank you to u/xXEnjo1PandaXx for sticking this post, you made my day!
 

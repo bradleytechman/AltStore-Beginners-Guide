@@ -132,7 +132,7 @@ altserver tray icon should appear on next boot
 
 [github.com/purp0s3/Tweaked-iOS-Apps](https://github.com/purp0s3/Tweaked-iOS-Apps)
 
-[AppDB](appdb.to)
+[AppDB](https://appdb.to)
 
 [iOS Ninja iPA Library](https://iosninja.io/ipa-library)
 

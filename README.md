@@ -146,7 +146,7 @@ Clicking on the link will open in AltStore You can get the beta by paying monthl
 
 [https://quarksources.github.io/quantumsource++.json](https://tinyurl.com/24y7mju4)
 
-[https://web.archive.org/web/20210225095501if_/https://appybois.com/](https://tinyurl.com/5n7vf4te)
+[https://web.archive.org/web/20210225095501if_/https://appybois.com/](https://tinyurl.com/5n77ckv6)
 
 [https://raw.githubusercontent.com/FurkanSimsir/channels.github.io/master/channels.json](https://tinyurl.com/92h2a4us)
 
@@ -164,9 +164,9 @@ Clicking on the link will open in AltStore You can get the beta by paying monthl
 
 [https://flyinghead.github.io/flycast-builds/altstore.json](https://tinyurl.com/44sdzmhj)
 
-[https://www.appfair.net/fairapps-ios.json](https://tinyurl.com/bdc5e5z3)
+[https://www.appfair.net/fairapps-ios.json](https://tinyurl.com/m8ff3ajr)
 
-[https://appmarket.tech/altstore.json](https://tinyurl.com/2phmve3z)
+[https://appmarket.tech/altstore.json](https://tinyurl.com/m2jmxzdv)
 
 The end. Thank you for taking your time to read this because this took literal AGES so please, consider pressing the upvote and star button. Thank you to u/xXEnjo1PandaXx for sticking this post, you made my day!
 

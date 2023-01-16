@@ -31,21 +31,23 @@ whatever you do, don’t use 3Utools. It has been proven to be modifying jailbre
 
 # Issues & Fixes
 
-How do I turn on developer mode?
+# How do I turn on developer mode?
 
 Developer mode can be turned on by going to Settings > privacy and security > scroll to the very bottom and enable developer mode > restart > open AltStore > click ok if it says you need developer mode > turn on. This is ok and your security is fine.
 
-How do I trust AltStore?
+# How do I trust AltStore?
 
 To trust AltStore, go to Settings < General < VPN & Device Management < ( your email that you used to install altstore ) < trust 
 
-My device isn’t showing up.
+# My device isn’t showing up.
 
 Thanks to u/BWC_4_Wife for this info
 
 On Windows C:\ProgramData\Apple\Lockdown (start, type in %ProgramData%\Apple\Lockdown ) or
 
 on a Mac: Go to /var/db/lockdown in Terminal You can remove everything in this folder, which will remove trust from every device. Refresh your apps faster 
+
+# My apps arent refreshing wirelessly
 
 !WINDOWS ONLY! u/wolo_prime had a lot of trouble getting Altstore apps (uYou+) to refresh my apps wirelessly. He installed every version of Itunes, reinstalled services, windows updates, wifi, and firewall settings.
 
@@ -63,7 +65,7 @@ Your device should appear on Itunes a few seconds afterward. You also find the p
 
 Credit to u/cancerism for this idea!
 
-Another way to automate your refreshes if Background refresh doesn't work
+# Another way to automate your refreshes if Background refresh doesn't work
 
 Background refresh is supposed to automate refreshing but it never worked for u/cancerism.
 
@@ -71,19 +73,19 @@ I'll assume that you've already set up wifi sync and auto start altserver with y
 
 Just use shortcut automation and pick a time that you're most likely to be at home. Turn off Ask Before Running which will be on by default
 
-YouTube++ isn’t working, what can I do?
+# YouTube++/uYou+ isn’t working, what can I do?
 
 First off, don’t use a random YouTube++, use uYou+ it’s much better than a random file you found off of a shady site.
 
-If I use the same apple ID on both my iPad and iPhone, will it affect the number of sideloading apps?
+# If I use the same apple ID on both my iPad and iPhone, will it affect the number of sideloading apps?
 
-No, in my testing, you can use the same apple ID 
+It shouldn't, in my testing, you can use the same apple ID 
 
 How vulnerable is my iPhone if I enable developer mode?
 
 Not that vulnerable. Still safe even after it’s turned on. Apple might just be trying to scare you
 
-I’m getting error 1100
+# I’m getting error 1100
 
 Make sure you are signed into iTunes
 
@@ -99,7 +101,7 @@ Hope this helps!
 
 Written by u/chux-e.
 
-I’m stuck on the login screen, what do I do?
+# I’m stuck on the login screen, what do I do?
 
 Written by u/archiep0gi
 
@@ -109,28 +111,37 @@ Ensure the following:
 
     ⁠If connected to the same WiFi, temporarily disable your firewall or anti-virus (this worked for u/archiep0gi).
     
-I'm not receiving notifications from apps I sideloaded
+# I'm not receiving notifications from apps I sideloaded
 
 You can only get notifications from apps you sideload by paying $99 a year to apple for a developer account. Idk how altstore can send notifications though. 
 
-Is there any way to bypass/extend the expiration from 7 days?
+# Is there any way to bypass/extend the expiration from 7 days?
 
 With an apple developer account for $99 a year, you get, 365 until it expires, then you refresh, unlimited app id's, your P12 signing certificate, notifications, access to the developer betas, and the rest is here 
 You can get IPA files from here. now stop asking plz
 
-The icon isn't showing up in the tray, what do I do?
-Thank you u/wukkyy for this info!
+# The icon isn't showing up in the tray, what do I do?
+Credit to RyzenGaming#5928 for figuring this out. u/wukkyy got the idea but RyzenGaming made a guide that went into more detail and said more steps you needed to do.
 
-you need to disable the new tray ui with vive tool that can be downloaded from github (https://github.com/thebookisclosed/ViVe/releases).
+Step 1- Download the vivetool from here 👉🏻(https://github.com/thebookisclosed/ViVe/releases)
 
-all you need to do is:
+Step 2- Create a folder name vivetool without any spaces in the name, in C Drive.
 
-    run this command: vivetool /disable /id:26008830
+Step 3- Now Extract all the files from the zip to That vivetool folder you had created in Step 2.
 
-    restart your pc.
+Step 4- Open Up the CMD (Run as Administrator).
 
-altserver tray icon should appear on next boot
+Step 5- Copy Paste & Run this Command in CMD 👉🏻 c:\vivetool\vivetool.exe /disable /id:26008830
 
+Step 6- After Running the Command it will Show you a Message saying 👉🏻Successfully Set Feature Configuration ) which means the command is successfully implemented.
+
+Step 7- Now the only thing you need to do afterwards is that restart your PC.
+
+Step 8- After Restarting your PC, Launch the** AltServer as Administrator**, Guess what, !!!Boom!!!🎆 u can see the AltServer Icon in your taskbar tray bar.
+
+U Can thank him, by Gifting a NITRO
+
+# Tweaked Apps links
 [github.com/purp0s3/Tweaked-iOS-Apps](https://github.com/purp0s3/Tweaked-iOS-Apps)
 
 [AppDB](https://appdb.to)
@@ -171,13 +182,11 @@ Clicking on the link will open in AltStore You can get the beta by paying monthl
 
 # Credits
 
-u/xXEnjo1PandaXx - Mod that stickied the post
-
-maxasix - AltLinux GUI
+u/xXEnjo1PandaXx(Shane) - Mod that stickied the post
 
 Riley & Shane -  Made AltStore and AltServer
 
-u/wukkyy - Found Windows 11 bug fix
+u/wukkyy - Found Windows 11 tray bug fix
 
 u/chux-e - Fix for errror 1100
 
@@ -186,6 +195,18 @@ u/archiep0gi - Fix for being stuck on the login screen
 u/cancerism - Another way to automate your refreshes
 
 u/BWC_4_Wife - Fix for device not showing up
+
+(ex main dev)maxasix - AltLinux GUI
+
+Nick Chan#0001 - AltLinux GUI
+
+nebula#5513 - AltLinux GUI
+
+yourfriend#5919 - AltLinux GUI
+
+xerz#9055 - AltLinux GUI
+
+RyzenGaming#5928 - Better explation for Windows 11 Tray Bug fix
 
 The end. Thank you for taking your time to read this because this took literal AGES so please, consider pressing the upvote and star button. Thank you to u/xXEnjo1PandaXx for sticking this post, you made my day!
 

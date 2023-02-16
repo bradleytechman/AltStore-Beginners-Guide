@@ -1,4 +1,4 @@
-
+https://img.shields.io/github/issues-pr/bradleytechman/AltStore-Beginners-Guide  https://img.shields.io/github/issues/bradleytechman/AltStore-Beginners-Guide https://github.com/sindresorhus/awesome
 ⭐️⭐️⭐️If you like this, star this!⭐️⭐️⭐️
 
 # AltStore

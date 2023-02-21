@@ -1,4 +1,4 @@
-https://img.shields.io/github/issues-pr/bradleytechman/AltStore-Beginners-Guide  https://img.shields.io/github/issues/bradleytechman/AltStore-Beginners-Guide https://github.com/sindresorhus/awesome https://forthebadge.com/images/badges/built-with-love.svg
+!\[burger](https://img.shields.io/github/issues-pr/bradleytechman/AltStore-Beginners-Guide)https://img.shields.io/github/issues-pr/bradleytechman/AltStore-Beginners-Guide  https://img.shields.io/github/issues/bradleytechman/AltStore-Beginners-Guide https://github.com/sindresorhus/awesome https://forthebadge.com/images/badges/built-with-love.svg
 
 ⭐️⭐️⭐️If you like this, star this!⭐️⭐️⭐️
 

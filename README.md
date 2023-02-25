@@ -1,5 +1,3 @@
-!\[burger](https://img.shields.io/github/issues-pr/bradleytechman/AltStore-Beginners-Guide)https://img.shields.io/github/issues-pr/bradleytechman/AltStore-Beginners-Guide  https://img.shields.io/github/issues/bradleytechman/AltStore-Beginners-Guide https://github.com/sindresorhus/awesome https://forthebadge.com/images/badges/built-with-love.svg
-
 ⭐️⭐️⭐️If you like this, star this!⭐️⭐️⭐️
 
 # AltStore
@@ -140,7 +138,6 @@ Step 7- Now the only thing you need to do afterwards is that restart your PC.
 
 Step 8- After Restarting your PC, Launch the** AltServer as Administrator**, Guess what, !!!Boom!!!🎆 u can see the AltServer Icon in your taskbar tray bar.
 
-U Can thank him, by Gifting a NITRO
 
 # Tweaked Apps links
 [github.com/purp0s3/Tweaked-iOS-Apps](https://github.com/purp0s3/Tweaked-iOS-Apps)
@@ -150,6 +147,24 @@ U Can thank him, by Gifting a NITRO
 [iOS Ninja iPA Library](https://iosninja.io/ipa-library)
 
 [Cypwn](https://ipa.cypwn.xyz/)
+
+[Starfiles](https://starfiles.co/search/.ipa#gsc.tab=0)
+
+[ArmConverter](https://armconverter.com/decryptedappstore/us)
+
+[AppAddict](https://appaddict.org/) (AppDB carbon copy)
+
+[Mob](https://mob.org/en/iphone/games)
+
+[Zeus](https://getzeus.app/library.html)
+
+[iOSHaven](https://ioshaven.com/apps)
+
+[CokerNutX](https://cokernutx.com/ipa-library/categories/tweakedapps.html)
+
+[iPASpot](https://ipaspot.app/)
+
+
 
 # Have the AltStore beta? Here are sources you can add!
 
@@ -180,6 +195,14 @@ Clicking on the link will open in AltStore You can get the beta by paying monthl
 [https://www.appfair.net/fairapps-ios.json](https://tinyurl.com/5hautux4)
 
 [https://appmarket.tech/altstore.json](https://tinyurl.com/msuss6pm)
+
+[https://repo.starfiles.co/dae0adfa29](https://tinyurl.com/2rw9yrp5)
+
+[https://repo.starfiles.com/6b1b6f1120](https://tinyurl.com/47mx5k8u)
+
+[altstore://source?URL=https://raw.githubusercontent.com/qnblackcat/AltStore/gh-pages/apps.json](tinyurl.com/2x9cvfbv)
+
+
 
 # Credits
 

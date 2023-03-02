@@ -139,7 +139,7 @@ Step 7- Now the only thing you need to do afterwards is that restart your PC.
 Step 8- After Restarting your PC, Launch the** AltServer as Administrator**, Guess what, !!!Boom!!!🎆 u can see the AltServer Icon in your taskbar tray bar.
 
 
-# Tweaked Apps links
+# Tweaked App Websites
 [github.com/purp0s3/Tweaked-iOS-Apps](https://github.com/purp0s3/Tweaked-iOS-Apps)
 
 [AppDB](https://appdb.to)

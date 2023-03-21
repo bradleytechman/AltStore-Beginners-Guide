@@ -138,6 +138,11 @@ Step 7- Now the only thing you need to do afterwards is that restart your PC.
 
 Step 8- After Restarting your PC, Launch the** AltServer as Administrator**, Guess what, !!!Boom!!!🎆 u can see the AltServer Icon in your taskbar tray bar.
 
+##There is no provisioning profile with the requested identifetr on this team.(3017)
+
+There is currently no fix, although it is a known bug: 
+https://twitter.com/altstoreio/status/1637953768728801282.
+It is an issue on Apple's end.
 
 # Tweaked App Websites
 [github.com/purp0s3/Tweaked-iOS-Apps](https://github.com/purp0s3/Tweaked-iOS-Apps)

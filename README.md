@@ -138,11 +138,11 @@ Step 7- Now the only thing you need to do afterwards is that restart your PC.
 
 Step 8- After Restarting your PC, Launch the** AltServer as Administrator**, Guess what, !!!Boom!!!🎆 u can see the AltServer Icon in your taskbar tray bar.
 
-##There is no provisioning profile with the requested identifetr on this team.(3017)
+# There is no provisioning profile with the requested identifetr on this team.(3017)
 
-There is currently no fix, although it is a known bug: 
-https://twitter.com/altstoreio/status/1637953768728801282.
-It is an issue on Apple's end.
+!YOU MUST USE ALTSERVER FOR THIS UPDATE!
+
+Reinstall AltStore from AltServer, then you should be on the newest version. Please note that you do not need to delete AltStore.
 
 # Tweaked App Websites
 [github.com/purp0s3/Tweaked-iOS-Apps](https://github.com/purp0s3/Tweaked-iOS-Apps)
@@ -206,10 +206,19 @@ Clicking on the link will open in AltStore You can get the beta by paying monthl
 
 [https://repo.starfiles.com/6b1b6f1120](https://tinyurl.com/47mx5k8u)
 
-[altstore://source?URL=https://raw.githubusercontent.com/qnblackcat/AltStore/gh-pages/apps.json](tinyurl.com/2x9cvfbv)
+[https://raw.githubusercontent.com/qnblackcat/AltStore/gh-pages/apps.json](tinyurl.com/2x9cvfbv)
 
+[https://bit.ly/wuxuslibrary](https://tinyurl.com/bdeskrjz)
 
+[https://bit.ly/wuxuslibraryplus](https://tinyurl.com/mr3swam8)
 
+# Compiling
+Coming Soon!
+
+# URL Schemes
+
+URL Schemes can be used in 2 different ways. Adding a source to the AltStore beta or installing an app from a link. 
+You can use a URL scheme by typing either `altstore://source?url=[the url of the source` or `altstore://install?url=[download url]` . 
 # Credits
 
 u/xXEnjo1PandaXx(Shane) - Mod that stickied the post
@@ -242,4 +251,4 @@ The end. Thank you for taking your time to read this because this took literal A
 
 if there are words in unnecessary places it’s because I used Grammarly to touch everything up
 
-EDITS: ALOT of grammar, added beta sources and removed a few, formatting, added issues.
+EDITS: ALOT of grammar, added beta sources and removed a few, formatting, added issues, added URL schemes tab, and compiling tab.

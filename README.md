@@ -223,8 +223,6 @@ You can use a URL scheme by typing either `altstore://source?url=[the url of the
 
 u/xXEnjo1PandaXx(Shane) - Mod that stickied the post
 
-Riley & Shane -  Made AltStore and AltServer
-
 u/wukkyy - Found Windows 11 tray bug fix
 
 u/chux-e - Fix for errror 1100
@@ -247,7 +245,7 @@ xerz#9055 - AltLinux GUI
 
 RyzenGaming#5928 - Better explation for Windows 11 Tray Bug fix
 
-The end. Thank you for taking your time to read this because this took literal AGES so please, consider pressing the upvote and star button. Thank you to u/xXEnjo1PandaXx for sticking this post, you made my day!
+The end. Thank you for taking your time to read this because this took literal AGES so please, consider pressing the upvote and star button. Thank you to Shane for sticking this post, you made my day!
 
 if there are words in unnecessary places it’s because I used Grammarly to touch everything up
 

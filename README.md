@@ -26,13 +26,16 @@ https://github.com/i-love-altlinux/AltLinux#install-altlinux
 
 # Do Not Use 3uTools
 
-whatever you do, don’t use 3Utools. It has been proven to be modifying jailbreak developers’ jailbreaks without permission which is piracy, sending data to china about your phone, Using a pirated and modified version on Appsync Unified. Do not use it.
+Whatever you do, don’t use 3Utools. It has been proven to be modifying jailbreak developers’ jailbreaks without permission which is piracy, sending data to china about your phone, Using a pirated and modified version on Appsync Unified. Do not use it.
 
 # Issues & Fixes
 
 # How do I turn on developer mode?
-
+<details>
+<summary># How do I turn on developer mode?</summary>
+<br>
 Developer mode can be turned on by going to Settings > privacy and security > scroll to the very bottom and enable developer mode > restart > open AltStore > click ok if it says you need developer mode > turn on. This is ok and your security is fine.
+</details>
 
 # How do I trust AltStore?
 

@@ -151,10 +151,6 @@ Reinstall AltStore from AltServer, then you should be on the newest version. Ple
 # Tweaked App Websites
 [github.com/purp0s3/Tweaked-iOS-Apps](https://github.com/purp0s3/Tweaked-iOS-Apps)
 
-
-# Community made guides for issues
-
-
 [AppDB](https://appdb.to)
 
 [iOS Ninja iPA Library](https://iosninja.io/ipa-library)
@@ -179,6 +175,9 @@ Reinstall AltStore from AltServer, then you should be on the newest version. Ple
 
 [IPARHINO](https://iparhino.com/)
 
+# Community made guides for issues
+
+Coming Soon!
 
 # Have the AltStore beta? Here are sources you can add!
 

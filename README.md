@@ -157,7 +157,7 @@ Reinstall AltStore from AltServer, then you should be on the newest version. Ple
 
 [Cypwn](https://ipa.cypwn.xyz/)
 
-[Starfiles](https://starfiles.co/search/.ipa#gsc.tab=0)
+[Starfiles](https://search.starfiles.co/#/?q=.ipa&extension=)
 
 [ArmConverter](https://armconverter.com/decryptedappstore/us)
 
@@ -186,6 +186,8 @@ Clicking on the link will open in AltStore You can get the beta by paying monthl
 [https://raw.githubusercontent.com/vizunchik/AltStoreRus/master/apps.json](https://tinyurl.com/mtatsd3a)
 
 [https://quarksources.github.io/quantumsource++.json](https://tinyurl.com/5add3ubk)
+
+[https://repo.starfiles.co/public](https://repo.starfiles.co/public)
 
 [https://web.archive.org/web/20210225095501if_/https://appybois.com/](https://tinyurl.com/2vjt6p7f)
 

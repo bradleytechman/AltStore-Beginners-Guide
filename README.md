@@ -201,7 +201,7 @@ Clicking on the link will open in AltStore You can get the beta by paying monthl
 
 [https://ipa.cypwn.xyz/cypwn.json](https://tinyurl.com/5cujbntv)
 
-[https://hann8n.github.io/JackCracks/jackscracksaltstore.json](https://tinyurl.com/yc2ppkce)
+[https://hann8n.github.io/JackCracks/MovieboxPro.json](https://tinyurl.com/yc2ppkce)
 
 [https://flyinghead.github.io/flycast-builds/altstore.json](https://tinyurl.com/5svryy7z)
 

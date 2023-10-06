@@ -191,8 +191,6 @@ Clicking on the link will open in AltStore You can get the beta by paying monthl
 
 [https://web.archive.org/web/20210225095501if_/https://appybois.com/](https://tinyurl.com/2vjt6p7f)
 
-[https://raw.githubusercontent.com/FurkanSimsir/channels.github.io/master/channels.json](https://tinyurl.com/2acjy3y8)
-
 [https://quarksources.github.io/quantumsource.json](https://tinyurl.com/y6d8un9t)
 
 [https://randomblock1.com/altstore/apps.json](https://tinyurl.com/3vjxvuzb)
@@ -258,4 +256,4 @@ The end. Thank you for taking your time to read this because this took literal A
 
 if there are words in unnecessary places it’s because I used Grammarly to touch everything up
 
-EDITS: ALOT of grammar, added beta sources and removed a few, formatting, added issues, added URL schemes tab, and compiling tab.
+EDITS: ALOT of grammar, added beta sources and removed a few, formatting, added issues, added URL schemes tab, compiling tab, and removed a broken source

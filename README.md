@@ -9,8 +9,7 @@ The difference between AltServer and AltStore is that AltServer is what you use 
 # Using AltServer on Mac
 So first off, you will want to get AltServer from [AltStore.io](https://altstore.io). 
 
-So after you’ve clicked MacOS, a file called AltServer.dmg should’ve been downloaded. Once you open it, you will see AltServer downloaded to downloads or where ever you downloaded it. When you open it, an icon should appear in the corner. ( note that if you have Bartender or a menu bar client it may be hidden) when you click it, it should show a lot of options. Click the one that says “Install Mail Plug-in…” and click “Install Plug-in” once clicked, type your password to install it. This is safe, none of your mail data is sent or recorded by AltStore. The mail plug-in is just to refresh apps so they do not expire. ( note that you must have an account in mail) Once installed, if mail is closed and reopen it, if not then open it. Once opened, click Mail at the top, then Preferences, and Manage Plug-ins in the corner. Then check AltPlugin.mail bundle, Allow Access, then Apply and Restart Mail. Then, go back to AltServer, and click Install Altstore. Your phone should show up Not showing up? Connect your phone to your computer, trust, then go to finder, “ your phone's name” and at the bottom, “ Show this iPhone when on Wi-Fi.” Make sure to hit apply in the right corner of the finder. Then, if you haven’t already, hit Install Altstore, and your device. Then, type in your Apple ID. If you don’t feel comfortable, you can use a dummy Apple ID, but this doesn’t get sent to Altstore or Riley. Just apply for authentication. They are not saved as well. Once you hit install, it should work. If it doesn’t, make sure the mail is open. Once installed, You now have AltStore! Read the next part that says how to sideload apps to learn how! You might also want to turn notifications on for AltServer.
-
+So after you’ve clicked MacOS, a file called AltServer.dmg should’ve been downloaded. Once you open it, you will see AltServer downloaded to downloads or where ever you downloaded it. When you open it, an icon should appear in the corner. (note that if you have Bartender or a menu bar client it may be hidden) when you click it, it should show a lot of options. Hover over the one that says “Install AltStore". Once hovered over, select your device and type your Apple ID to install it. This is safe, none of your data is recorded by AltStore. Once you hit install, it should work. If it doesn’t, make sure your device is connected over cable. Once installed, You now have AltStore! 
 
 # Using AltServer on Windows
 
@@ -148,6 +147,10 @@ Step 8- After Restarting your PC, Launch the** AltServer as Administrator**, Gue
 
 Reinstall AltStore from AltServer, then you should be on the newest version. Please note that you do not need to delete AltStore.
 
+# Where is the install mail-plugin option? 
+
+Since AltServer 1.7, the mail-plugin is no longer needed.
+
 # Tweaked App Websites
 [github.com/purp0s3/Tweaked-iOS-Apps](https://github.com/purp0s3/Tweaked-iOS-Apps)
 
@@ -158,8 +161,6 @@ Reinstall AltStore from AltServer, then you should be on the newest version. Ple
 [Cypwn](https://ipa.cypwn.xyz/)
 
 [Starfiles](https://search.starfiles.co/#/?q=.ipa&extension=)
-
-[ArmConverter](https://armconverter.com/decryptedappstore/us)
 
 [AppAddict](https://appaddict.org/) (AppDB carbon copy)
 

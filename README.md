@@ -9,24 +9,24 @@ The difference between AltServer and AltStore is that AltServer is what you use 
 # Using AltServer on Mac
 So first off, you will want to get AltServer from [AltStore.io](https://altstore.io). 
 
-So after you’ve clicked MacOS, a file called AltServer.dmg should’ve been downloaded. Once you open it, you will see AltServer downloaded to downloads or where ever you downloaded it. When you open it, an icon should appear in the corner. (note that if you have Bartender or a menu bar client it may be hidden) when you click it, it should show a lot of options. Hover over the one that says “Install AltStore". Once hovered over, select your device and type your Apple ID to install it. This is safe, none of your data is recorded by AltStore. Once you hit install, it should work. If it doesn’t, make sure your device is connected over cable. Once installed, You now have AltStore! 
+So after you’ve clicked MacOS, a file called AltServer.dmg should’ve been downloaded. Once you open it, you will see AltServer downloaded to downloads or wherever you downloaded it. When you open it, an icon should appear in the corner. (note that if you have Bartender or a menu bar client it may be hidden) when you click it, it should show a lot of options. Hover over the one that says “Install AltStore". Once hovered over, select your device and type your Apple ID to install it. This is safe, none of your data is recorded by AltStore. Once you hit install, it should work. If it doesn’t, make sure your device is connected over cable. Once installed, You now have AltStore! 
 
 # Using AltServer on Windows
 
 
-Using AltServer on windows is relatively the same process as on Mac. Go to [AltStore.io](https://altstore.io) and download it for windows. You should get a file called altinstaller.zip Run setup.exe Not AltInstaller, Altinstaller is to remove or repair AltServer. ( would be better if Riley named it something else!) then click next, install, and say yes. You getting closer! Next get iTunes ( [32-bit devices](https://secure-appldnld.apple.com/itunes12/001-80042-20210422-E8A351F2-A3B2-11EB-9A8F-CF1B67FC6302/iTunesSetup.exe) [64-bit devices](https://secure-appldnld.apple.com/itunes12/001-80053-20210422-E8A3B28C-A3B2-11EB-BE07-CE1B67FC6302/iTunes64Setup.exe) ) and iCloud, [64 and 32-bit](https://updates.cdn-apple.com/2020/windows/001-39935-20200911-1A70AA56-F448-11EA-8CC0-99D41950005E/iCloudSetup.exe). Please do not get it from the Microsoft store or it will not work. You also don’t have to sign into iTunes or iCloud with your Apple ID. Ok, got iCloud and iTunes installed? Click the AltServer icon in the tray, install Altstore, on your phone, and type in your Apple ID. If you don’t feel comfortable, you can use a dummy Apple ID, but this doesn’t get sent to Altstore or Riley. Just apply for authentication. They are not saved as well. Once you hit install, it should work. If you have any issues, scroll down to issues under how to use AltServer on Linux. See if your issue is there before commenting, please! You might also want to turn notifications on for AltServer.
+Using AltServer on Windows is relatively the same process as on Mac. Go to [AltStore.io](https://altstore.io) and download it for Windows. You should get a file called altinstaller.zip Run setup.exe Not AltInstaller, Altinstaller is to remove or repair AltServer. ( would be better if Riley named it something else!) then click next, install, and say yes. You getting closer! Next get iTunes ( [32-bit devices](https://secure-appldnld.apple.com/itunes12/001-80042-20210422-E8A351F2-A3B2-11EB-9A8F-CF1B67FC6302/iTunesSetup.exe) [64-bit devices](https://secure-appldnld.apple.com/itunes12/001-80053-20210422-E8A3B28C-A3B2-11EB-BE07-CE1B67FC6302/iTunes64Setup.exe) ) and iCloud, [64 and 32-bit](https://updates.cdn-apple.com/2020/windows/001-39935-20200911-1A70AA56-F448-11EA-8CC0-99D41950005E/iCloudSetup.exe). Please do not get it from the Microsoft store or it will not work. You also don’t have to sign into iTunes or iCloud with your Apple ID. Ok, got iCloud and iTunes installed? Click the AltServer icon in the tray, install Altstore, on your phone, and type in your Apple ID. If you don’t feel comfortable, you can use a dummy Apple ID, but this doesn’t get sent to Altstore or Riley. Just apply for authentication. They are not saved as well. Once you hit install, it should work. If you have any issues, scroll down to issues under how to use AltServer on Linux. See if your issue is there before commenting, please! You might also want to turn notifications on for AltServer.
 
 Video:
 
 # Using AltServer on Linux
 
-AltLinux is a GUI for AltServer Linux, both being made unofficially. To install it, follow the instructions at the link bellow.
+AltLinux is a GUI for AltServer Linux, both being made unofficially. To install it, follow the instructions at the link below.
 
 https://github.com/i-love-altlinux/AltLinux#install-altlinux
 
-# Do Not Use 3uTools
+# Do Not Use 3uTools to install iPA files
 
-Whatever you do, don’t use 3Utools. It has been proven to be modifying jailbreak developers’ jailbreaks without permission which is piracy, sending data to china about your phone, Using a pirated and modified version on Appsync Unified. Do not use it.
+Do not use 3Utools. It has been proven to be modifying jailbreak developers’ jailbreaks without permission which is piracy, sending data to China about your phone, and Using a pirated and modified version on Appsync Unified (A jailbreak tweak that they did not get permission to modify). Do not use it.
 
 # Issues & Fixes
 
@@ -39,7 +39,7 @@ Developer mode can be turned on by going to Settings > privacy and security > sc
 
 # How do I trust AltStore?
 
-To trust AltStore, go to Settings < General < VPN & Device Management < ( your email that you used to install altstore ) < trust 
+To trust AltStore, go to Settings < General < VPN & Device Management < (the email that you used to install AltStore ) < trust 
 
 # My device isn’t showing up.
 
@@ -49,11 +49,11 @@ On Windows C:\ProgramData\Apple\Lockdown (start, type in %ProgramData%\Apple\Loc
 
 on a Mac: Go to /var/db/lockdown in Terminal You can remove everything in this folder, which will remove trust from every device. Refresh your apps faster 
 
-# My apps arent refreshing wirelessly
+# My apps aren't refreshing wirelessly
 
-!WINDOWS ONLY! u/wolo_prime had a lot of trouble getting Altstore apps (uYou+) to refresh my apps wirelessly. He installed every version of Itunes, reinstalled services, windows updates, wifi, and firewall settings.
+!WINDOWS ONLY! u/wolo_prime had a lot of trouble getting Altstore apps (uYou+) to refresh my apps wirelessly. He installed every version of iTunes, reinstalled services, windows updates, wifi, and firewall settings.
 
-What finally worked is restarting the Apple Mobile Device Service. In order to do it on windows, you open the command in admin mode. Wnd key, type "cmd", right-click "run as administrator".
+What finally worked was restarting the Apple Mobile Device Service. To do it on Windows, you open the command in admin mode. Wnd key, type "cmd", and right-click "run as administrator".
 
 When it's opened you type:
 
@@ -63,7 +63,7 @@ wait a couple of seconds
 
 net start "Apple Mobile Device Service"
 
-Your device should appear on Itunes a few seconds afterward. You also find the process running in task manager and right-click "restart" which would do the same.
+Your device should appear on iTunes a few seconds afterward. You also find the process running in task manager and right-click "restart" which would do the same.
 
 Credit to u/cancerism for this idea!
 
@@ -151,6 +151,19 @@ Reinstall AltStore from AltServer, then you should be on the newest version. Ple
 
 Since AltServer 1.7, the mail-plugin is no longer needed.
 
+# AltServer cannot find my device (windows only)
+ Thank you to [syphant](https://github.com/syphant) for this find!
+
+ For Windows users experiencing issues with wireless refreshing that are resolved by restarting Apple Mobile Device Service, you can create a batch file (open notepad, paste it in, and save as something.bat) that contains the below:
+
+`@echo off`
+`net stop "Apple Mobile Device Service"`
+`timeout /t 30`
+`net start "Apple Mobile Device Service"`
+
+You can then create a scheduled task that runs this batch file with elevated privileges (necessary for restarting services) once per day or at whatever interval you wish, this should prevent the issue entirely, as this problem seems to happen when the service has been running for a long period of time for whatever reason.
+
+
 # Tweaked App Websites
 [github.com/purp0s3/Tweaked-iOS-Apps](https://github.com/purp0s3/Tweaked-iOS-Apps)
 
@@ -158,13 +171,9 @@ Since AltServer 1.7, the mail-plugin is no longer needed.
 
 [iOS Ninja iPA Library](https://iosninja.io/ipa-library)
 
-[Cypwn](https://ipa.cypwn.xyz/)
-
 [Starfiles](https://search.starfiles.co/#/?q=.ipa&extension=)
 
-[AppAddict](https://appaddict.org/) (AppDB carbon copy)
-
-[Mob](https://mob.org/en/iphone/games)
+[AppAddict](https://appaddict.org/) (AppDB copy)
 
 [Zeus](https://getzeus.app/library.html)
 
@@ -176,9 +185,6 @@ Since AltServer 1.7, the mail-plugin is no longer needed.
 
 [IPARHINO](https://iparhino.com/)
 
-# Community made guides for issues
-
-Coming Soon!
 
 # Have the AltStore beta? Here are sources you can add!
 
@@ -226,14 +232,14 @@ Coming Soon!
 # URL Schemes
 
 URL Schemes can be used in 2 different ways. Adding a source to the AltStore beta or installing an app from a link. 
-You can use a URL scheme by typing either `altstore://source?url=[the url of the source` or `altstore://install?url=[download url]` . 
+You can use a URL scheme by typing either `altstore://source?url=[the URL of the source` or `altstore://install?url=[download url]` . 
 # Credits
 
-u/xXEnjo1PandaXx(Shane) - Mod that stickied the post
+u/xXEnjo1PandaXx(Shane) - Moderator that stuck the post
 
 u/wukkyy - Found Windows 11 tray bug fix
 
-u/chux-e - Fix for errror 1100
+u/chux-e - Fix for error 1100
 
 u/archiep0gi - Fix for being stuck on the login screen
 

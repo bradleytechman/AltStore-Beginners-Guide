@@ -164,26 +164,6 @@ Since AltServer 1.7, the mail-plugin is no longer needed.
 You can then create a scheduled task that runs this batch file with elevated privileges (necessary for restarting services) once per day or at whatever interval you wish, this should prevent the issue entirely, as this problem seems to happen when the service has been running for a long period of time for whatever reason.
 
 
-# Tweaked App Websites
-[github.com/purp0s3/Tweaked-iOS-Apps](https://github.com/purp0s3/Tweaked-iOS-Apps)
-
-[AppDB](https://appdb.to)
-
-[iOS Ninja iPA Library](https://iosninja.io/ipa-library)
-
-[Starfiles](https://search.starfiles.co/#/?q=.ipa&extension=)
-
-[AppAddict](https://appaddict.org/) (AppDB copy)
-
-[Zeus](https://getzeus.app/library.html)
-
-[iOSHaven](https://ioshaven.com/apps)
-
-[CokerNutX](https://cokernutx.com/ipa-library/categories/tweakedapps.html)
-
-[iPASpot](https://ipaspot.app/)
-
-[IPARHINO](https://iparhino.com/)
 
 
 # Have the AltStore beta? Here are sources you can add!

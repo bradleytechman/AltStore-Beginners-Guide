@@ -166,9 +166,9 @@ You can then create a scheduled task that runs this batch file with elevated pri
 
 
 
-# Have the AltStore beta? Here are sources you can add!
+# Have the AltStore beta? Here are sources you can add! 
 
-Clicking on the link will open in AltStore You can get the beta by paying monthly for [Riley and Shane’s Patreon](https://www.patreon.com/rileyshane).
+Clicking on the link will open in AltStore You can get the beta by paying monthly for [Riley and Shane’s Patreon](https://www.patreon.com/rileyshane). 
 
 [https://raw.githubusercontent.com/vizunchik/AltStoreRus/master/apps.json](https://tinyurl.com/mtatsd3a)
 
@@ -205,6 +205,8 @@ Clicking on the link will open in AltStore You can get the beta by paying monthl
 [https://bit.ly/wuxuslibrary](https://tinyurl.com/bdeskrjz)
 
 [https://bit.ly/wuxuslibraryplus](https://tinyurl.com/mr3swam8)
+
+(If you copy the links and see they are link shorteners and get suspicious, this is only because GitHub does not support URL Schemes)
 
 # Compiling
 Coming Soon!

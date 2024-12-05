@@ -174,8 +174,6 @@ Clicking on the link will open in AltStore You can get the beta by paying monthl
 
 [https://quarksources.github.io/quantumsource++.json](https://tinyurl.com/5add3ubk)
 
-[https://repo.starfiles.co/public](https://repo.starfiles.co/public)
-
 [https://web.archive.org/web/20210225095501if_/https://appybois.com/](https://tinyurl.com/2vjt6p7f)
 
 [https://quarksources.github.io/quantumsource.json](https://tinyurl.com/y6d8un9t)
@@ -186,19 +184,11 @@ Clicking on the link will open in AltStore You can get the beta by paying monthl
 
 [https://floridaman7588.me/altjb/altsource.json](https://tinyurl.com/4rwjsfan)
 
-[https://ipa.cypwn.xyz/cypwn.json](https://tinyurl.com/5cujbntv)
-
 [https://hann8n.github.io/JackCracks/MovieboxPro.json](https://tinyurl.com/yc2ppkce)
 
 [https://flyinghead.github.io/flycast-builds/altstore.json](https://tinyurl.com/5svryy7z)
 
 [https://www.appfair.net/fairapps-ios.json](https://tinyurl.com/5hautux4)
-
-[https://appmarket.tech/altstore.json](https://tinyurl.com/msuss6pm)
-
-[https://repo.starfiles.co/dae0adfa29](https://tinyurl.com/2rw9yrp5)
-
-[https://repo.starfiles.com/6b1b6f1120](https://tinyurl.com/47mx5k8u)
 
 [https://raw.githubusercontent.com/qnblackcat/AltStore/gh-pages/apps.json](tinyurl.com/2x9cvfbv)
 

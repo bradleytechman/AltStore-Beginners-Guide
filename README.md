@@ -240,3 +240,5 @@ The end. Thank you for taking your time to read this because this took literal A
 if there are words in unnecessary places it’s because I used Grammarly to touch everything up
 
 EDITS: ALOT of grammar, added beta sources and removed a few, formatting, added issues, added URL schemes tab, compiling tab, and removed a broken source
+
+

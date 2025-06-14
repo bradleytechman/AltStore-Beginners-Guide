@@ -1,3 +1,7 @@
+# This is not updated anymore. Please follow the AltStore FAQ. 
+
+
+
 # AltStore
 
  Since a lot of people have been asking how to use AltStore, sideload, or IPA files for apps such as YouTube; This guide will tell you how to use AltStore, sideloading, issues, and how to solve them. 
